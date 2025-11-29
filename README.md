@@ -4,7 +4,7 @@ A secure, privacy-first vault that stores encrypted data **locally inside the br
 ## 🚀 Features
 ### 🔒 1. Fully Local Encryption.
 ### 🗄️ 2. Zero Backend & Zero Database.
-### 💾 3. LOptimised Large Storage Capacity.
+### 💾 3. Optimised Large Storage Capacity.
 ### 📥 4. Easy Import & Export(.json).
 ### 🖥️ 5. Clean & Minimal Interface.
 
